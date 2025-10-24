@@ -8609,7 +8609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_SPT:PhoenixContact_SPT_1.5_9-H-3.5_1x09_P3.5mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 345.44 162.8648 0)
 			(effects
 				(font
