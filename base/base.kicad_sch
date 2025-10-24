@@ -12261,7 +12261,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "BASE_POWER_IN"
+		(property "Value" "EXTRA_PORT"
 			(at 227.965 76.835 0)
 			(effects
 				(font
