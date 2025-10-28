@@ -9333,7 +9333,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 213.614 221.869 90)
 			(effects
 				(font
@@ -12035,7 +12035,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 213.614 219.329 90)
 			(effects
 				(font
@@ -13141,7 +13141,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 107.95 179.705 0)
 			(effects
 				(font
@@ -13533,7 +13533,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 106.68 140.335 0)
 			(effects
 				(font
@@ -13805,7 +13805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 136.525 129.54 0)
 			(effects
 				(font
@@ -14064,7 +14064,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 106.68 128.905 0)
 			(effects
 				(font
@@ -14721,7 +14721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "PCM_Inductor_SMD_Handsoldering_AKL:L_CommonModeChoke_Coilcraft_0603USB"
 			(at 174.752 255.905 90)
 			(effects
 				(font
@@ -15445,7 +15445,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 107.95 160.655 0)
 			(effects
 				(font
@@ -16239,7 +16239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 107.95 168.275 0)
 			(effects
 				(font
@@ -16373,7 +16373,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 107.95 149.225 0)
 			(effects
 				(font
@@ -17144,7 +17144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "PCM_4ms_Resistor:R_0603"
 			(at 136.525 140.97 0)
 			(effects
 				(font
