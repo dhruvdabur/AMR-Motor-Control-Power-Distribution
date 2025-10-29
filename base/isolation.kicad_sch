@@ -3345,9 +3345,9 @@
 		)
 		(uuid "4eef4e5b-762d-452d-b256-21480625a506")
 	)
-	(text "OCTOCUPPLER\n"
+	(text "OCTOCOUPLER\n"
 		(exclude_from_sim no)
-		(at 134.62 15.875 0)
+		(at 133.985 16.51 0)
 		(effects
 			(font
 				(size 4 4)
