@@ -8375,7 +8375,7 @@
 			)
 		)
 	)
-	(global_label "ENC1A"
+	(global_label "ENC1B"
 		(shape input)
 		(at 142.875 151.765 180)
 		(fields_autoplaced yes)
@@ -8387,7 +8387,7 @@
 		)
 		(uuid "73ba4526-e149-4333-ae19-0b2214373b8b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 133.8422 151.765 0)
+			(at 133.6608 151.765 0)
 			(effects
 				(font
 					(size 1.27 1.27)
