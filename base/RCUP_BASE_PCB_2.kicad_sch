@@ -14213,7 +14213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
+		(property "Value" "GND1"
 			(at 132.08 69.85 0)
 			(effects
 				(font
