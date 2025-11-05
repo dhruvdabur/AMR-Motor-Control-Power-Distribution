@@ -2390,8 +2390,8 @@
 		(uuid d3ab8efc-dda7-41c5-91e0-e01a5938520e)
 	)
 	(rectangle
-		(start 218.44 144.78)
-		(end 271.145 179.07)
+		(start 200.025 127)
+		(end 252.73 161.29)
 		(stroke
 			(width 0.381)
 			(type solid)
@@ -2499,7 +2499,7 @@
 	)
 	(text "Mounting Holes\n"
 		(exclude_from_sim no)
-		(at 244.475 143.51 0)
+		(at 226.06 125.73 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2566,7 +2566,7 @@
 	)
 	(text_box "Mounting holes for earthing are used to connect the PCB’s ground plane to the chassis or metal enclosure, providing a safety discharge path and reducing EMI (electromagnetic interference)."
 		(exclude_from_sim no)
-		(at 224.155 163.83 0)
+		(at 205.74 146.05 0)
 		(size 41.275 11.43)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -3417,6 +3417,28 @@
 			)
 		)
 	)
+	(global_label "12V_BASE"
+		(shape input)
+		(at 180.34 31.75 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "616c7042-158e-47c4-b705-288685041b9e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 168.1625 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "M4DIR"
 		(shape input)
 		(at 277.495 102.235 270)
@@ -4209,28 +4231,6 @@
 			)
 		)
 	)
-	(global_label "12V"
-		(shape input)
-		(at 180.34 31.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f789b11d-f3c8-4cc0-b702-8e27836a3c18")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.8472 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "24V"
 		(shape input)
 		(at 109.347 38.608 0)
@@ -4323,7 +4323,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 251.46 154.305 0)
+		(at 233.045 136.525 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4331,7 +4331,7 @@
 		(dnp no)
 		(uuid "14ec9a67-8722-4d93-89d9-437b2209cf26")
 		(property "Reference" "#PWR051"
-			(at 251.46 160.655 0)
+			(at 233.045 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4340,7 +4340,7 @@
 			)
 		)
 		(property "Value" "Chassis"
-			(at 250.698 153.035 0)
+			(at 232.283 135.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4348,7 +4348,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 251.46 155.575 0)
+			(at 233.045 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4357,7 +4357,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 251.46 155.575 0)
+			(at 233.045 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4366,7 +4366,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 251.46 154.305 0)
+			(at 233.045 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8106,7 +8106,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 238.76 151.765 0)
+		(at 220.345 133.985 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8115,7 +8115,7 @@
 		(fields_autoplaced yes)
 		(uuid "6c4e1b01-f893-46dc-bf03-dd17dd074d2b")
 		(property "Reference" "H6"
-			(at 241.3 149.2249 0)
+			(at 222.885 131.4449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8124,7 +8124,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 241.3 151.7649 0)
+			(at 222.885 133.9849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8134,7 +8134,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad_TopBottom"
-			(at 238.76 151.765 0)
+			(at 220.345 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8143,7 +8143,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 238.76 151.765 0)
+			(at 220.345 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8152,7 +8152,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 238.76 151.765 0)
+			(at 220.345 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8174,7 +8174,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 262.89 151.765 0)
+		(at 244.475 133.985 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8183,7 +8183,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f286604-ed5e-4a27-8589-98d7d0d7850f")
 		(property "Reference" "H8"
-			(at 265.43 149.2249 0)
+			(at 247.015 131.4449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8192,7 +8192,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 265.43 151.7649 0)
+			(at 247.015 133.9849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8202,7 +8202,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad_TopBottom"
-			(at 262.89 151.765 0)
+			(at 244.475 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8211,7 +8211,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 151.765 0)
+			(at 244.475 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8220,7 +8220,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 262.89 151.765 0)
+			(at 244.475 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8325,7 +8325,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 238.76 154.305 0)
+		(at 220.345 136.525 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8333,7 +8333,7 @@
 		(dnp no)
 		(uuid "734242ec-3d0a-4e1c-9ff9-0d8058aba03a")
 		(property "Reference" "#PWR050"
-			(at 238.76 160.655 0)
+			(at 220.345 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8342,7 +8342,7 @@
 			)
 		)
 		(property "Value" "Chassis"
-			(at 237.998 153.035 0)
+			(at 219.583 135.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8350,7 +8350,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 238.76 155.575 0)
+			(at 220.345 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8359,7 +8359,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 238.76 155.575 0)
+			(at 220.345 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8368,7 +8368,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 238.76 154.305 0)
+			(at 220.345 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9501,7 +9501,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 226.06 154.305 0)
+		(at 207.645 136.525 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9509,7 +9509,7 @@
 		(dnp no)
 		(uuid "8855bde2-69c5-410b-ae62-071985a8705f")
 		(property "Reference" "#PWR049"
-			(at 226.06 160.655 0)
+			(at 207.645 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,7 +9518,7 @@
 			)
 		)
 		(property "Value" "Chassis"
-			(at 225.298 153.035 0)
+			(at 206.883 135.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9526,7 +9526,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 226.06 155.575 0)
+			(at 207.645 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9535,7 +9535,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 155.575 0)
+			(at 207.645 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +9544,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 226.06 154.305 0)
+			(at 207.645 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9948,7 +9948,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 262.89 154.305 0)
+		(at 244.475 136.525 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9956,7 +9956,7 @@
 		(dnp no)
 		(uuid "94c84790-984f-40ef-a791-f26fa11aa145")
 		(property "Reference" "#PWR052"
-			(at 262.89 160.655 0)
+			(at 244.475 142.875 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9965,7 +9965,7 @@
 			)
 		)
 		(property "Value" "Chassis"
-			(at 262.128 153.035 0)
+			(at 243.713 135.255 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9973,7 +9973,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 262.89 155.575 0)
+			(at 244.475 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9982,7 +9982,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 262.89 155.575 0)
+			(at 244.475 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9991,7 +9991,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 262.89 154.305 0)
+			(at 244.475 136.525 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10337,7 +10337,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 226.06 151.765 0)
+		(at 207.645 133.985 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10346,7 +10346,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4bc5ef0-28e2-4e2e-975c-119fa868588c")
 		(property "Reference" "H5"
-			(at 228.6 149.2249 0)
+			(at 210.185 131.4449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10355,7 +10355,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 228.6 151.7649 0)
+			(at 210.185 133.9849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10365,7 +10365,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad_TopBottom"
-			(at 226.06 151.765 0)
+			(at 207.645 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10374,7 +10374,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 151.765 0)
+			(at 207.645 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10383,7 +10383,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 226.06 151.765 0)
+			(at 207.645 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10405,7 +10405,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 251.46 151.765 0)
+		(at 233.045 133.985 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -10414,7 +10414,7 @@
 		(fields_autoplaced yes)
 		(uuid "a5cd8f55-6e5e-47fe-b210-16da6c31ef89")
 		(property "Reference" "H7"
-			(at 254 149.2249 0)
+			(at 235.585 131.4449 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10423,7 +10423,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 254 151.7649 0)
+			(at 235.585 133.9849 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10433,7 +10433,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4_DIN965_Pad_TopBottom"
-			(at 251.46 151.765 0)
+			(at 233.045 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10442,7 +10442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 251.46 151.765 0)
+			(at 233.045 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10451,7 +10451,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 251.46 151.765 0)
+			(at 233.045 133.985 0)
 			(effects
 				(font
 					(size 1.27 1.27)
