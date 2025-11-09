@@ -9571,7 +9571,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "PCM_Capacitor_Tantalum_SMD_AKL:CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder"
 			(at 171.7548 114.3 0)
 			(effects
 				(font
@@ -9898,7 +9898,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+		(property "Footprint" "PCM_Capacitor_Tantalum_SMD_AKL:CP_EIA-6032-28_Kemet-C_Pad2.25x2.35mm_HandSolder"
 			(at 166.7002 95.885 0)
 			(effects
 				(font
