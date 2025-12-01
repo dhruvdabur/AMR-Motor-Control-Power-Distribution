@@ -1,0 +1,51 @@
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+Can not find model defined with enviroment variable:
+${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+D:/RM/GrabCAD files/stm32f411-stm32f401-black-pill-1.snapshot.5/Black Pill.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+D:/RM/GrabCAD files/stm32f411-stm32f401-black-pill-1.snapshot.5/Black Pill.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step
+[('R18', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R17', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R9', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('OC1', '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl'), ('OC2', '${KICAD6_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.wrl'), ('R8', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('MotorController1', 'D:/RM/GrabCAD files/stm32f411-stm32f401-black-pill-1.snapshot.5/Black Pill.step'), ('MotorController1', 'C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step'), ('MotorController1', 'C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step'), ('R1', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R14', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('C2', '${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl'), ('R11', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('C3', '${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl'), ('R20', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R16', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R12', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R19', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('C6', '${KISYS3DMOD}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-6032-28_Kemet-C.wrl'), ('R2', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R15', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('R13', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl'), ('MotorController2', 'D:/RM/GrabCAD files/stm32f411-stm32f401-black-pill-1.snapshot.5/Black Pill.step'), ('MotorController2', 'C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step'), ('MotorController2', 'C:/Program Files/KiCad/7.0/share/kicad/3dmodels/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step')]
