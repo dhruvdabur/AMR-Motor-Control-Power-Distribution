@@ -188,6 +188,7 @@
       ],
       "track_widths": [
         0.0,
+        0.0,
         0.1,
         0.2,
         0.3,
@@ -235,8 +236,8 @@
           "drill": 0.3
         },
         {
-          "diameter": 0.7,
-          "drill": 0.3
+          "diameter": 1.2,
+          "drill": 0.8
         }
       ],
       "zones_allow_external_fillets": false
