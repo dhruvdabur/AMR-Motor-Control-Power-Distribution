@@ -156,6 +156,38 @@ Here is an even shorter README-style version:
 
 
 
+<img width="690" height="654" alt="image" src="https://github.com/user-attachments/assets/538db351-fd02-4af9-be60-af99e491612d" />
+<img width="1029" height="880" alt="image" src="https://github.com/user-attachments/assets/536407ca-75a2-426f-98d8-6d0f3419dc13" />
+
+
+You can write it like this:
+
+## High-Current Power Routing
+
+* The high-current section of the PCB is laid out as a **separate and clearly defined power zone**.
+* This section is designed with **wider copper paths** to support higher current flow with lower resistance.
+* Special attention has been given to the **battery input terminal** to improve current-carrying capability.
+* In this region, the **solder mask has been removed intentionally** so that additional solder can be added over the copper.
+* Adding extra solder increases the effective conductive cross-section and helps the board handle higher current more reliably.
+* This layout improves:
+
+  * **current-carrying capacity**
+  * **thermal performance**
+  * **power delivery reliability** under heavy load
+
+
+<img width="878" height="349" alt="image" src="https://github.com/user-attachments/assets/30623c91-e67c-4b61-bfee-9fad8ec4ab52" />
+
+
+## Acknowledgment and Conclusion
+
+* This project represents the combined effort of the entire electronics team and all the members who contributed to making this AMR possible.
+* The development of the AMR-Motor-Control-Power-Distribution board was made possible through continuous design, testing, debugging, and integration across multiple subsystems.
+* Special acknowledgment goes to all the members of the electronics system whose work on power distribution, control, sensing, protection, and system integration contributed to the successful realization of this project.
+* This board serves as a key part of the robot’s electrical architecture, enabling reliable power delivery, subsystem isolation, and robust low-level control.
+* With this work, the project establishes a strong foundation for stable and scalable operation of the autonomous mobile robot.
+
+
 
 
 
